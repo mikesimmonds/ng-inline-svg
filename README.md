@@ -1,5 +1,10 @@
 # ng-inline-svg
 
+## This for allows you to explicitly set the config.baseUrl to null and therefore not prepent the svg url with anything.
+
+
+## Please note this is a fork of https://github.com/arkon/ng-inline-svg I strongly suggest you use his package unless you really need this feature
+
 [![NPM](https://nodei.co/npm/ng-inline-svg.png?compact=true)](https://nodei.co/npm/ng-inline-svg)
 
 **[Demo](https://echeung.me/ng-inline-svg)**
